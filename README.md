@@ -1,4 +1,4 @@
-![图片](./db7b147c1fe542ddb1600f44f05fcd44.jpeg~tplv-a9rns2rl98-ds_wm_1_6_dk.png)
+![图片](./b575a0900b1a1ba3e4cf375a6be2d7b99154ada116717703a6e33ca8a3581b20.jpg)
 
 # 个人信息 personal information
 目前是一名计科生  
