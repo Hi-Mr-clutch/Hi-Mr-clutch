@@ -1,6 +1,4 @@
-
-# <img width="384" height="288" alt="db7b147c1fe542ddb1600f44f05fcd44 jpeg~tplv-a9rns2rl98-ds_wm_1_6_dk" src="https://github.com/user-attachments/assets/14e1780e-f918-438c-8769-b71a87c49112" />
-
+![图片](./db7b147c1fe542ddb1600f44f05fcd44.jpeg~tplv-a9rns2rl98-ds_wm_1_6_dk.png)
 
 # 个人信息 personal information
 目前是一名计科生  
@@ -14,6 +12,6 @@ I'm currently learning the C language and still exploring it.
   
   持续进步  
 Progress doesn't stop.
-## 联系我 contact me
+# 联系我 contact me
 邮箱Email:1811044323@qq.com
 
